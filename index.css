@@ -14,7 +14,7 @@ body{
     left: 0;
     top: 0;
     bottom: 0;
-    width: 8.65%;
+    width: 8.60%;
     background-color: #000000;
     padding: 24px;
 }
@@ -78,7 +78,7 @@ body{
 
 
 .main-container{
-    margin-left: 200px;
+    margin-left: 205px;
     margin-bottom: 100px;
 }
 
@@ -150,7 +150,6 @@ body{
 .topbar .navbar button:focus{
     background-color: #f2f2f2;
 }
-
 
 
 .main-container .spotify-playlist{
@@ -268,4 +267,12 @@ body{
     border: 0px;
     border-radius: 40px;
     cursor: pointer;
+}
+
+@media (max-width: 1310px){
+
+    .sidebar{
+        width: 13%;
+    }
+    
 }
