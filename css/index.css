@@ -14,7 +14,7 @@ body {
     left: 0;
     top: 0;
     bottom: 0;
-    width: 12.5%;
+    width: 230px;
     background-color: #000000;
     padding: 20px;
 }
@@ -51,7 +51,7 @@ body {
     color: #b3b3b3;
     text-decoration: none;
     font-weight: bold;
-    font-size: 13px;
+    font-size: 15px;
 }
 
 .sidebar .navigation ul li a:hover,
@@ -81,7 +81,7 @@ body {
     text-decoration: none;
     font-weight: 500;
     color: #b3b3b3;
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .sidebar .policies ul li a:hover,
@@ -177,8 +177,8 @@ body {
 
 .main-container .spotify-playlist h2 {
     color: #ffffff;
-    font-size: 36px;
-    margin-bottom: 20px;
+    font-size: 26px;
+    margin-bottom: 5px;
 }
 
 
@@ -296,7 +296,7 @@ body {
 @media (max-width: 1310px) {
 
     .sidebar {
-        width: 16%;
+        width: 200px;
         padding: 14px;
     }
 
@@ -316,4 +316,54 @@ body {
         margin-left: 200px;
         margin-bottom: 100px;
     }
+}
+
+@media (max-width: 930px){
+
+    .sidebar {
+        width: 230px;
+        padding: 24px;
+    }
+
+    .topbar {
+        width: auto;
+    }
+
+    .main-container {
+        margin-left: 220px;
+        margin-bottom: 100px;
+    }
+
+    .spotify-playlist .list .item {
+        min-width: 190px;
+    }
+
+}
+
+@media (max-width: 415px){
+
+    .sidebar {
+        width: 230px;
+        padding: 24px;
+    }
+
+    .topbar {
+        width: 100%;
+    }
+
+    .main-container {
+        margin-left: 220px;
+        margin-bottom: 100px;
+        width: 550px;
+    }
+
+    .spotify-playlist .list .item {
+        min-width: 155px;
+    }
+
+    .main-container .spotify-playlist {
+        padding: 10px 20px;
+        margin-bottom: 1rem;
+    }
+
 }

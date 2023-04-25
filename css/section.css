@@ -91,3 +91,53 @@
   }
 
 }
+
+@media (max-width: 930px){
+
+  .sidebar {
+      width: 230px;
+      padding: 24px;
+  }
+
+  .topbar {
+      width: auto;
+  }
+
+  .main-container {
+      margin-left: 220px;
+      margin-bottom: 100px;
+  }
+
+  .spotify-playlist .listt .item {
+      min-width: 190px;
+  }
+
+}
+
+@media (max-width: 415px){
+
+  .sidebar {
+      width: 230px;
+      padding: 24px;
+  }
+
+  .topbar {
+      width: 100%;
+  }
+
+  .main-container {
+      margin-left: 220px;
+      margin-bottom: 100px;
+      width: 550px;
+  }
+
+  .spotify-playlist .listt .item {
+      width: 156px;
+  }
+
+  .main-container .spotify-playlist {
+      padding: 10px 20px;
+      margin-bottom: 1rem;
+  }
+
+}
