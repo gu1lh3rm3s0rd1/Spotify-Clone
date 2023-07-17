@@ -3,22 +3,18 @@
 Clone do Front-End de um popular aplicativo de transmissão de música "Spotify" usando HTML, CSS com Flexbox para o layout responsivo.
 Com o Flexbox usando CSS também criei uma grade de cartões e os alinhei, e transicione para eles usando efeitos como hover, focus e activate que fazem o botão play aparecer.
 
-## Visualização
+![Texto Alternativo da Imagem](/imagens/print1.PNG)
+
+## Link do Projeto
 
 Para visualizar a página, você pode acessar o link de demonstração abaixo:
-[Link do Projeto](https://spotifyduo.netlify.app/)
+[Confira Projeto](https://spotifyduo.netlify.app/)
 
-## Instruções
+## Como Usar
 
-1. Clone o repositório:
-
-  -  git clone https://github.com/gu1lh3rm3s0rd1/Spotify-Clone.git
-
-2. Navegue até a pasta do projeto:
-
-  -  cd nome-do-repositorio
-
-3. Abra o arquivo index.html em seu navegador de preferência.
+1. Faça o download dos arquivos do projeto ou clone o repositório.
+2. Abra o arquivo "index.html" em seu navegador da web.
+3. A lista de carros será exibida e você pode clicar em um carro para ver mais detalhes.
 
 ## Tecnologias Utilizadas
 
