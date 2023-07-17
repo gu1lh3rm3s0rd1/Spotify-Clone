@@ -12,11 +12,11 @@ Para visualizar a página, você pode acessar o link de demonstração abaixo:
 
 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+  -  git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
 2. Navegue até a pasta do projeto:
 
-cd nome-do-repositorio
+  -  cd nome-do-repositorio
 
 3. Abra o arquivo index.html em seu navegador de preferência.
 
