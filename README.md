@@ -6,13 +6,13 @@ Com o Flexbox usando CSS também criei uma grade de cartões e os alinhei, e tra
 ## Visualização
 
 Para visualizar a página, você pode acessar o link de demonstração abaixo:
-[Link de Demonstração](https://spotifyduo.netlify.app/)
+[Link do Projeto](https://spotifyduo.netlify.app/)
 
 ## Instruções
 
 1. Clone o repositório:
 
-  -  git clone https://github.com/seu-usuario/nome-do-repositorio.git
+  -  git clone https://github.com/gu1lh3rm3s0rd1/Spotify-Clone.git
 
 2. Navegue até a pasta do projeto:
 
@@ -30,15 +30,13 @@ Para visualizar a página, você pode acessar o link de demonstração abaixo:
 
 A estrutura do projeto é simples e organizada da seguinte forma:
 
-|-- arquivo index/
-|-- index.html
-
-|-- css/
-| |-- style.css
-| |-- (outros arquivos CSS, se houver)
-
-|-- images/
-| |-- (imagens utilizadas no projeto)
+    |-- arquivo index/
+    |-- index.html
+    |-- css/
+    | |-- style.css
+    | |-- (outros arquivos CSS, se houver)
+    |-- images/
+    | |-- (imagens utilizadas no projeto)
 
 ## Recursos Adicionais
 
