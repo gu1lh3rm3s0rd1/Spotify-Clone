@@ -46,11 +46,17 @@ Além de Flexbox, outras técnicas e conceitos CSS foram utilizados para criar e
 
 Contribuições são bem-vindas! Se você deseja melhorar ou adicionar novas funcionalidades ao projeto, sinta-se à vontade para fazer um fork do repositório e enviar um pull request.
 
-## Autor
+## Como Contatar
 
-- Nome: Guilherme Benjamin Sordi
+Se você estiver interessado(a) em colaborar em algum projeto ou apenas quiser bater um papo, fique à vontade para entrar em contato comigo. Abaixo estão os meus canais de contato:
+
+- E-mail: @gsordi2507@gmail.com / @gsordi123@outlook.com
 - GitHub: [gu1lh3rm3s0rd1](https://github.com/gu1lh3rm3s0rd1)
 - LinkedIn: [guilhermesordi](https://www.linkedin.com/in/guilherme-sordi-33ab06233/)
+
+## Autor
+
+Guilherme Benjamin Sordi - [https://github.com/gu1lh3rm3s0rd1/](https://github.com/gu1lh3rm3s0rd1).
 
 ## Licença
 
